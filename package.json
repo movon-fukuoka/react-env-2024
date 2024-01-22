@@ -27,7 +27,7 @@
     "react-dom": "^18.2.0",
     "tailwind-merge": "^2.2.1",
     "tailwindcss-animate": "^1.0.7",
-    "Vite-tsconfig-paths": "npm:vite-tsconfig-paths@^4.3.1"
+    "vite-tsconfig-paths": "npm:vite-tsconfig-paths@^4.3.1"
   },
   "devDependencies": {
     "@storybook/addon-essentials": "^7.6.10",
