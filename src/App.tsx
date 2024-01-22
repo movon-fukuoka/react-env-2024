@@ -20,7 +20,7 @@ function App() {
       <h1 className="text-3xl text-red-500">Hello,e</h1>
       <div className="card">
         <Button onClick={() => setCount((count) => count + 1)}>
-          count is a {count}
+          count is aa {count}
         </Button>
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
